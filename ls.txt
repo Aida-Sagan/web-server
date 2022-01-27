@@ -1,0 +1,12 @@
+cgi
+lang.txt
+ls.txt
+pic2.png
+pic3.gif
+pic.jpg
+test.txt
+time.c
+webs1
+webs1.c
+web-ser
+web-ser.c
